@@ -1,3 +1,4 @@
+Dépôt personnalisé pour l'intégration et l'hébergement du bot Spam-Pairing.
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=SPAM+PAIRING;SEND+MASS+PAIRING;BY+DsPrimis" alt="Typing SVG" />
